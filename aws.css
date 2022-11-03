@@ -1,0 +1,29 @@
+.header{
+    align-items: center;
+    text-align: center;
+}
+#logo{
+    padding: 40px;
+}
+.login{
+    padding-left: 10px;
+    border: solid black;
+    width: 300px;
+    margin: auto;
+    padding: auto;
+    justify-content: center;
+}
+#acc{
+    padding-top: 10px;
+    font-size: xx-large;
+}
+#account{
+    margin-top: 10px;
+}
+#sign{
+    align-items: center;
+    height: 30px;
+    width: 200px;
+    margin: 5px;
+    margin-left: 0px;
+}
